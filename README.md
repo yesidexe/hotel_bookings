@@ -1,5 +1,5 @@
 # Hotel bookings
-La idea de este "proyecto" práctico surgió en un bootcamp/curso de código facilito, el dataset a trabajar es uno que se encontró en kaggle, llamado [Hotel bookings](https://www.kaggle.com/datasets/mojtaba142/hotel-booking), es un problema de clasificación que vamos a resolver con Random Forest Classifier.
+La idea de este "proyecto" práctico de **Machine learning** surgió en un bootcamp/curso de código facilito, el dataset a trabajar es uno que se encontró en kaggle, llamado [Hotel bookings](https://www.kaggle.com/datasets/mojtaba142/hotel-booking), es un problema de clasificación que vamos a resolver con Random Forest Classifier.
 
 > 📢 Fue hecho con las mejores intenciones y esfuerzo, pero como tal no es un proyecto profesional, puede tener sus errores, y cositas a mejorar.
 
