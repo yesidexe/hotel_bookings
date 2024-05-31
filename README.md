@@ -27,11 +27,11 @@ La idea de este "proyecto" práctico de **Machine learning** surgió en un bootc
 
 ## **Notas/Observaciones** 
 #### *(Si están marcadas ya las resolví)*
-- [ ] Que pasa si eliminaba `arrival_date_ear` en lugar de `reservation_status_date`??
-- [ ] Entendí por qué en el bootcamp/curso `reservation_status` presentaba fuga de datos con el target, pero no por qué `reservation_status_date` lo presentaba.
-- [ ] El one-hot-encoder sirve a las variables binarizadas??
-- [ ] Que tal si uso cross validation?
-- [ ] Cómo puedo crear un ColumnTransform con una funcion personalizada?
+- [x] Que pasa si eliminaba `arrival_date_ear` en lugar de `reservation_status_date`??
+- [x] Entendí por qué en el bootcamp/curso `reservation_status` presentaba fuga de datos con el target, pero no por qué `reservation_status_date` lo presentaba.
+- [x] El one-hot-encoder sirve a las variables binarizadas??
+- [x] Que tal si uso cross validation?
+- [x] Cómo puedo crear un ColumnTransform con una funcion personalizada?
 
 
 
