@@ -10,8 +10,8 @@ La idea de este "proyecto" práctico de **Machine learning** surgió en un bootc
     + `hotel_booking_training.csv` dataset que proporciona **código facilito**, es un porcentaje del crudo.
     + `new_customers.csv` dataset que proporciona **código facilito** para probar el modelo, es el otro porcentaje del crudo.
 - `df_profiling.html` es el reporte que generó **ydata_profiling** en el `hotel_bookings_EDA.ipynb`.
-- `hotel_bookings_EDA.ipynb` es el notebook donde realizo algo de EDA con Feature engineering, y pruebo el modelo para dejarlo listo, y en el siguiente notebook solo usar pipelines y guardar el modelo.
-- `hotel_bookings_pipeline.ipynb` notebook donde utilizó el dataset limpio `hotel_booking_clean.csv`, uso pipelines, guardo el modelo y lo pruebo.
+- `hotel_EDA.ipynb` es el notebook donde realizo algo de EDA con Feature engineering, y pruebo el modelo para dejarlo listo, y en el siguiente notebook solo usar pipelines y guardar el modelo.
+- `hotel_pipeline.ipynb` notebook donde utilizó el dataset limpio `hotel_booking_clean.csv`, uso pipelines, guardo el modelo y lo pruebo.
 - `modelo_pipeline.joblib` modelo que puede ser usado a producción. (aún no sé bien del tema, pero se supone que este modelo puede ser usado en producción)
 
 ## **Ambiente de desarrollo**
